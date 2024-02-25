@@ -7,4 +7,4 @@ The derivation follows "Effect of Oblique Interplanetary Magnetic Field on Shape
 Pages 1-4 explain the derivation from equations A''3, A''4 and A''6. The Python code solves for the density ratio (eta) and plots it as a function of thetaBn, the angle between the IMF (Interplanetary Magnetic Field) and the shock normal. 
 
 ## Authors
-[Vincent Génot]: vincent.genot@irap.omp.eu
+vincent.genot@irap.omp.eu
